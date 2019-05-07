@@ -2646,8 +2646,8 @@
       }, window.Googl = e
     }(),
     function () {
-      var e, t = !1,
-        o = !1,
+      var e, t = !0,
+        o = !0,
         i = "Account Management";
       S.prototype.refresh = function (e, t) {
         console.log("interactive", t), this.refreshInternal(e, t).async()
