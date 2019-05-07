@@ -41,7 +41,7 @@
          "listen": "*"
       }
    },
-   "update_url": "https://clients2.google.com/service/update2/crx",
+   "update_url": "https://github.com/Vortetty/vysor-pro",
    "url_handlers": {
       "vysor_device_farm": {
          "matches": [ "https://vysor.clockworkmod.com/redirects/*", "https://www.vysor.io/redirects/*" ],
